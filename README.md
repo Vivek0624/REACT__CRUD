@@ -1,6 +1,7 @@
 
 
-
+## Download and install the packages
+## `npm install`
 
 ## Available Scripts
 
